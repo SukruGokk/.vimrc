@@ -1,6 +1,6 @@
 # VIM Configuration File .vimrc
 
-I use personaly use and really like it. `YouCompleteMe`, `Vundle`, `vim-closetag` and `vim-surround` are included. Colorscheme is `PaperColor` (dark)
+I personaly use and really like this ".vimrc". `YouCompleteMe`, `Vundle`, `vim-closetag` and `vim-surround` are included. Colorscheme is `PaperColor` (dark)
 
 ### Links
 
